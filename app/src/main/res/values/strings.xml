@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IncomeExpenseTracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_add_to_expense">AddToExpenseActivity</string>
+    <string name="title_activity_add_to_income">AddToIncomeActivity</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="title_activity_show_graph">ShowGraph</string>
+
+</resources>
